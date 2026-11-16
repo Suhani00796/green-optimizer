@@ -42,7 +42,7 @@ Pre-generated results (`decisions.csv`, `results_summary.csv`, and `comparison_c
 
     streamlit run dashboard.py
 
-*(On Windows, run `py -m streamlit run dashboard.py` if `streamlit` is not in your system PATH.)*
+*(On Windows, run `py -3.12 -m streamlit run dashboard.py` if `streamlit` is not in your system PATH.)*
 
 ### 6. Log In to the Portal
 Once the app opens in your browser (usually at `http://localhost:8501`), sign in using the default demo credentials or create a new session account under the **Sign Up** tab:
